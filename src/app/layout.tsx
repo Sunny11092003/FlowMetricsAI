@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "MyNextJs",
-  description: "Web application of NextJs",
+  title: "FlowMetrics AI",
+  description: "Web application of FlowMetrics AI",
   // remove icon by not including 'icons' property
 };
 
